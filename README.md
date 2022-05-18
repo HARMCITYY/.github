@@ -1,1 +1,3 @@
-# .github
+- 👋 Hi, Dies ist das Github von HARMCITY
+- 👀 Wir sind ein FiveM Server, hier schreiben wir alle Bugs, To-Do's und weiteres auf.
+- 📫 Wie man mit uns in Verbindung kommt: https://discord.gg/u47cmjr8Q8
